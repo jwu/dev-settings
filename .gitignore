@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+.exvim/
+installs/
+vendor/
+*.exe
+win/clink_profile/*.txt
+win/clink_profile/*.log
+win/clink_profile/clink_history*
