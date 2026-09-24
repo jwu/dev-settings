@@ -128,6 +128,7 @@ MacOS 开发环境自动配置脚本，会安装以下开发工具和运行时�
   - [lazygit](https://github.com/jesseduffield/lazygit)
     - [gitui](https://github.com/gitui-org/gitui)
     - [keifu](https://github.com/trasta298/keifu)
+    - [gitpane](https://github.com/affromero/gitpane)
   - [gh](https://github.com/cli/cli)
   - [worktrunk](https://github.com/max-sixty/worktrunk)
 - Docker
